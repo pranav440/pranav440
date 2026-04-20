@@ -1,4 +1,4 @@
-gthis is the github profile repo # 👋 Welcome to My Developer Journey
+# 👋 Welcome to My Developer Journey
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full-Stack+Learning+Path" alt="Typing SVG" />
