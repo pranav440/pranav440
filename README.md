@@ -234,7 +234,7 @@ C                             ███████░░░ 70% 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23ED8B045 Vsvg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -260,13 +260,13 @@ C                             ███████░░░ 70% 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav440&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=e0e0e0&icon_color=00d9ff)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav440&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=e0e0e0&icon_color=00d9ff)](https://github-readme-stats.vercel.app/api?username=pranav440&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pranav440&theme=dark&hide_border=false&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=00d9ff&sideNums=e0e0e0&sideLabels=888888&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com?user=pranav440&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
 
 </div>
 
@@ -383,7 +383,7 @@ I'm always open to:
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=pranav440&label=Profile%20Views&color=00d9ff&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=pranav440&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
 </div>
 
