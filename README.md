@@ -1,391 +1,334 @@
-# 👋 Welcome to My Developer Journey
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full-Stack+Learning+Path" alt="Typing SVG" />
+
+[![capsule-render](https://capsule-render.vercel.app/api?type=rect&color=0,15,40,0,15,40&height=3&section=header)](https://github.com/pranav440)
+
+[![capsule-render](https://capsule-render.vercel.app/api?type=venom&color=0,0D1117,0D1117,100,00D9FF&height=280&section=header&text=Pranav%20Ganorkar&fontSize=62&fontColor=E0E6ED&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=68&descSize=20&descColor=00D9FF)](https://github.com/pranav440)
+
 </div>
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/pranav-ganorkar-035080245/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/pranavganorkar12" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:pranavg764@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&height=50&lines=%24+java+--version+%3A%3A+OpenJDK+21+%7C+Spring+Boot+3.x;%24+mvn+spring-boot%3Arun+%3A%3A+Smart+Parking+API+%5BOK%5D;%24+git+push+origin+main+%3A%3A+Building+Production-Ready+APIs;%24+whoami+%3A%3A+Pranav+Ganorkar+%7C+Java+Backend+Dev;%24+target+%3A%3A+Java+Backend+Internship+%5BOPEN%5D)](https://github.com/pranav440)
+
 </div>
 
 ---
 
-## 🚀 Current Journey
+<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📍 Location: Information Technology Degree (Bachelor)      │
-│  ⚡ Focus: Java Backend & Spring Boot Development           │
-│  🎯 Goal: Full-Stack Developer & System Architect           │
-└─────────────────────────────────────────────────────────────┘
-```
+![B.Tech IT](https://img.shields.io/badge/B.Tech%20IT-VIT%20Pune-00D9FF?style=flat-square&logo=graduation-cap&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
+![CGPA](https://img.shields.io/badge/CGPA-8.73%2F10-00D9FF?style=flat-square&logo=star&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
+![Location](https://img.shields.io/badge/Pune%2C%20India-Maharashtra-00D9FF?style=flat-square&logo=google-maps&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
+![Batch](https://img.shields.io/badge/Batch-2026-00D9FF?style=flat-square&logo=calendar&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
 
-### What I'm Currently Doing
+</div>
 
-**🔥 Core Learning Focus:**
-- ✅ **Spring Boot Mastery** - Building REST APIs with modern architecture
-- ✅ **REST API Development** - Endpoint creation & request handling
-- ✅ **Java Advanced Concepts** - Collections, Streams, and Design Patterns
-- 🔄 **Database Integration** - Spring Data JPA & Query Optimization
-- 🔄 **Spring Security** - Authentication & Authorization mechanisms
+<div align="center">
 
-**📚 Currently Learning:**
-```java
-// My Learning Stack Right Now:
-public class CurrentFocus {
-    private String[] focus = {
-        "Spring Boot & Spring Framework",
-        "REST API Design Patterns",
-        "SQL & Database Design",
-        "Spring Security & OAuth",
-        "Microservices Architecture",
-        "API Testing & Documentation"
-    };
-}
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/pranav440)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://www.linkedin.com/in/pranav-ganorkar-035080245/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](mailto:pranavg764@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-pranav440-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/pranav440)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://instagram.com/pranavganorkar12)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranav440&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/pranav440?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=00D9FF)
+![Stars](https://img.shields.io/github/stars/pranav440?label=Total%20Stars&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=star&logoColor=00D9FF)
+
+</div>
 
 ---
 
-## 💡 Core Competencies
+## `$ cat about_me.txt`
 
-### Backend Development
-
-```
-Spring Boot Framework          ████████░░ 80% | Expert
-REST API Design               ████████░░ 80% | Advanced
-Java Fundamentals            ██████████ 100% | Strong Foundation
-Spring Data JPA              ██████░░░░ 60% | Learning
-Spring Security              █████░░░░░ 50% | Learning
-Microservices Architecture   █████░░░░░ 50% | Learning
-```
-
-### Frontend Basics
-
-```
-HTML5 & Semantic Web          ████████░░ 80% | Good
-CSS3 & Responsive Design      ███████░░░ 70% | Good
-JavaScript                    ██████░░░░ 60% | Basic
-React (Upcoming)              ░░░░░░░░░░  0% | Planned
+```bash
+┌─────────────────────────────────────────────────────────────────┐
+│                    PRANAV GANORKAR                              │
+│              Java Backend Developer                             │
+├─────────────────────────────────────────────────────────────────┤
+│  ROLE     :: Java Backend Developer                             │
+│  FOCUS    :: Spring Boot · REST APIs · Spring Data JPA          │
+│  DEGREE   :: B.Tech Information Technology (2026)              │
+│  COLLEGE  :: Vishwakarma Institute of Technology, Pune          │
+│  CGPA     :: 8.73 / 10                                          │
+│  DOMAIN   :: Backend Engineering · API Development              │
+│  OPEN TO  :: Java Backend Internship (Immediate)               │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-### Programming Languages
-
-```
-Java                          ██████████ 100% | Primary Language
-Python                        ████████░░ 80% | Scripting & Automation
-C++                           ███████░░░ 70% | Competitive Programming
-C                             ███████░░░ 70% | Systems Programming
-```
+> Building scalable, production-ready backend applications using Java and Spring Boot.  
+> I go deep on how frameworks work internally — not just how to use them, but *why* they work.  
+> Every project I build is a step toward writing code that's clean, tested, and deployment-ready.
 
 ---
 
-## 🎓 What I've Learned & Built
+## `$ ls -la tech_stack/`
 
-### 🔹 **Java Fundamentals & OOP**
+<div align="center">
 
-<details open>
-<summary><b>Click to explore my Java knowledge</b></summary>
+**[ Languages ]**
 
-- **Object-Oriented Programming (OOP)**
-  - Classes, Objects, and Methods
-  - Inheritance & Polymorphism
-  - Encapsulation & Abstraction
-  - Interfaces & Abstract Classes
-  
-- **Collections Framework**
-  - List, Set, Map, Queue implementations
-  - Iterator patterns
-  - Stream API for functional programming
-  
-- **Exception Handling**
-  - Try-catch blocks & Custom exceptions
-  - Throw vs Throws
-  - Resource management (Try-with-resources)
+[![skillicons](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://github.com/pranav440)
 
-</details>
+**[ Backend & Frameworks ]**
 
-### 🔹 **Spring Framework & Spring Boot**
+[![skillicons](https://skillicons.dev/icons?i=spring,hibernate&theme=dark)](https://github.com/pranav440)
+&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-0D1117?style=flat-square&logo=springboot&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-ORM-0D1117?style=flat-square&logo=spring&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-Design-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![Maven](https://img.shields.io/badge/Maven-Build-0D1117?style=flat-square&logo=apachemaven&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
 
-<details open>
-<summary><b>Click to explore Spring knowledge</b></summary>
+**[ Databases ]**
 
-- **Spring Core Concepts**
-  - Dependency Injection (DI)
-  - Inversion of Control (IoC) Container
-  - Bean Lifecycle & Scopes
-  - Annotations: @Component, @Bean, @Autowired
-  
-- **Spring Boot Essentials**
-  - Starter Dependencies
-  - Auto-Configuration magic
-  - Embedded server setup
-  - Application properties & YAML configuration
-  
-- **Application Execution**
-  - CommandLineRunner implementation
-  - ApplicationRunner with context access
-  - Bean initialization order
-  
-- **Spring Boot Annotations**
-  - @SpringBootApplication
-  - @RestController & @Controller
-  - @Service, @Repository, @Component
+[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&theme=dark)](https://github.com/pranav440)
 
-</details>
+**[ Tools & Platforms ]**
 
-### 🔹 **REST API Development**
+[![skillicons](https://skillicons.dev/icons?i=git,github,intellij,vscode,postman&theme=dark)](https://github.com/pranav440)
 
-<details open>
-<summary><b>Click to explore REST API knowledge</b></summary>
+**[ Currently Learning ]**
 
-- **HTTP Methods & Endpoints**
-  - @GetMapping - Retrieve resources
-  - @PostMapping - Create resources
-  - @PutMapping - Update entire resources
-  - @DeleteMapping - Remove resources
-  - @PatchMapping - Partial updates
-  
-- **Request Handling**
-  - @PathVariable for dynamic URLs
-  - @RequestParam for query parameters
-  - @RequestHeader for HTTP headers
-  - @RequestBody for JSON payloads
-  - @RequestMapping for custom routes
-  
-- **Response Management**
-  - ResponseEntity for HTTP status control
-  - Custom response entities
-  - HTTP Status codes (200, 201, 404, 500, etc.)
-  
-- **Data Validation**
-  - @Valid & @Validated
-  - JSR-380 Bean Validation
-  - Custom validation annotations
+[![skillicons](https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,aws&theme=dark)](https://github.com/pranav440)
 
-</details>
+</div>
 
-### 🔹 **Database Integration**
+---
+
+## `$ cat specializations.md`
+
+<div align="center">
+
+![REST API](https://img.shields.io/badge/REST%20API%20Design-Expert-0D1117?style=for-the-badge&logo=postman&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advanced-0D1117?style=for-the-badge&logo=springboot&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![ORM & JPA](https://img.shields.io/badge/ORM%20%26%20JPA-Proficient-0D1117?style=for-the-badge&logo=hibernate&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![OOP](https://img.shields.io/badge/OOP%20Design-Strong-0D1117?style=for-the-badge&logo=java&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![DBMS](https://img.shields.io/badge/DBMS%20%26%20SQL-Proficient-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![AI Foundations](https://img.shields.io/badge/Generative%20AI-Learning-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+
+</div>
+
+---
+
+## `$ cat expertise.table`
+
+| Domain | Proficiency | Details |
+|--------|-------------|---------|
+| 🔵 Java & OOP | ████████░░ Advanced | Collections, Streams, Design Patterns |
+| 🔵 Spring Boot | ███████░░░ Proficient | Auto-config, Starters, Beans, Actuator |
+| 🔵 REST API Dev | ████████░░ Advanced | CRUD, Validation, Exception Handling, DTOs |
+| 🔵 Spring Data JPA | ██████░░░░ Intermediate | Entities, Repositories, Relationships |
+| 🔵 MySQL & JDBC | ██████░░░░ Intermediate | Schema design, PreparedStatements, HikariCP |
+| 🔵 Data Structures | ███████░░░ Proficient | Arrays, Linked Lists, Trees, Hashing |
+
+---
+
+## `$ git log --oneline featured_projects/`
 
 <details open>
-<summary><b>Click to explore database knowledge</b></summary>
+<summary><b>🔵 Smart Parking Slot Booking API</b> — Spring Boot · MySQL · REST</summary>
 
-- **Spring Data JPA**
-  - Entity mapping with @Entity
-  - Repository interfaces
-  - CRUD operations
-  - Custom query methods
-  - @Query for complex queries
-  
-- **Relational Databases**
-  - SQL fundamentals
-  - JDBC connections
-  - Connection pooling (HikariCP)
-  
-- **Object-Relational Mapping**
-  - JPA annotations (@Column, @Table, @Id)
-  - Relationships (@OneToMany, @ManyToOne, @ManyToMany)
-  - Eager vs Lazy loading
+<br/>
+
+| Attribute | Detail |
+|-----------|--------|
+| 🛠 Stack | Java · Spring Boot · Spring Data JPA · MySQL · Lombok · Maven |
+| 📦 Scale | Full CRUD REST API · All edge cases Postman-tested |
+| 💡 What it does | Manages parking slots, bookings, users and availability in real time |
+| 🔗 Repo | [pranav440/Smart-Parking-Slot-Booking-API](https://github.com/pranav440/Smart-Parking-Slot-Booking-API) |
+
+- Designed RESTful endpoints for slot reservation, cancellation, and availability check
+- Implemented DTOs, service layer, and repository layer with clean separation of concerns
+- Built complete entity model with Spring Data JPA — all edge cases validated via Postman
 
 </details>
-
-### 🔹 **Security & Authentication** (Learning)
 
 <details>
-<summary><b>Click to explore security concepts</b></summary>
+<summary><b>🔵 UPI Wallet Engine</b> — Java · OOP · Core Java</summary>
 
-- **Spring Security Fundamentals**
-  - Authentication mechanisms
-  - Authorization & Role-Based Access
-  - JWT tokens
-  - OAuth2 protocol basics
-  
-- **API Security**
-  - CORS configuration
-  - CSRF protection
-  - Password encoding
-  - Secure password storage
+<br/>
+
+| Attribute | Detail |
+|-----------|--------|
+| 🛠 Stack | Java · OOP · Collections · Exception Handling |
+| 📦 Scale | Console-based · Full simulation with PIN auth & transaction history |
+| 💡 What it does | Simulates a UPI Wallet with secure money transfer, PIN verification, balance management |
+| 🔗 Repo | [pranav440/UPI-Wallet-Engine-Java](https://github.com/pranav440/UPI-Wallet-Engine-Java) |
+
+- Built user management system with secure PIN verification flow
+- Implemented wallet-to-wallet money transfer with balance validation and rollback logic
+- Maintains full transaction history per user using Java Collections framework
+
+</details>
+
+<details>
+<summary><b>🔵 Java JDBC CRUD App</b> — Java · JDBC · MySQL</summary>
+
+<br/>
+
+| Attribute | Detail |
+|-----------|--------|
+| 🛠 Stack | Java · JDBC · MySQL · PreparedStatement |
+| 📦 Scale | Modular mini-project structure · Secure parameterized queries |
+| 💡 What it does | Full CRUD application demonstrating raw JDBC-MySQL integration |
+| 🔗 Repo | [pranav440/java-jdbc-crud-app](https://github.com/pranav440/java-jdbc-crud-app) |
+
+- Implemented secure CRUD operations using PreparedStatements (SQL injection safe)
+- Modular project structure separating DB config, DAO, and business logic
+- Demonstrates core JDBC patterns before ORM abstraction
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-%23ED8B045 Vsvg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Learning Technologies
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) *(Upcoming)*
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) *(Upcoming)*
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) *(Upcoming)*
-
----
-
-## 📊 GitHub Statistics
+## `$ cat achievements.log`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav440&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=e0e0e0&icon_color=00d9ff)](https://github-readme-stats.vercel.app/api?username=pranav440&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pranav440&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav440&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=e0e0e0)
+| 🏆 Achievement | 📋 Details | 📅 Year |
+|---|---|---|
+| 🥇 Top 4 — XENIA Hackathon | Neuramac Domain · Competitive hackathon placing | 2026 |
+| 🎓 Oracle Cloud Certified | OCI 2025 AI Foundations Associate | 2025 |
+| ⚙️ Smart Parking API | Production-ready Spring Boot REST API live on GitHub | 2025 |
+| 💻 GitHub Pull Shark | Earned via active PR contribution workflow | 2025 |
+| ⚡ GitHub Quickdraw | Early and consistent issue/PR engagement | 2025 |
 
 </div>
 
 ---
 
-## 🎯 Roadmap & Next Steps
+## `$ cat education.txt`
 
-```
-PHASE 1: Advanced REST APIs [████████░░] 80% Complete
-├── ✅ GET, POST mapping
-├── ✅ @PathVariable & @RequestParam
-├── ✅ @RequestBody & validation
-└── ⏳ Complex query operations
+<div align="center">
 
-PHASE 2: Database & Persistence [██░░░░░░░░] 20% In Progress
-├── 🔄 Spring Data JPA
-├── 🔄 Entity relationships
-├── ⏳ Complex queries
-└── ⏳ Query optimization
+[![VIT Pune](https://img.shields.io/badge/B.Tech%20Information%20Technology-Vishwakarma%20Institute%20of%20Technology%2C%20Pune-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://www.vit.edu/)
 
-PHASE 3: Security & Authentication [█░░░░░░░░░] 10% Planned
-├── ⏳ Spring Security setup
-├── ⏳ JWT implementation
-├── ⏳ OAuth2 basics
-└── ⏳ API authentication
+![Batch](https://img.shields.io/badge/Batch-2022--2026-0D1117?style=flat-square&logo=calendar&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+![CGPA](https://img.shields.io/badge/CGPA-8.73%20%2F%2010-0D1117?style=flat-square&logo=star&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
 
-PHASE 4: Testing & DevOps [░░░░░░░░░░] 0% Upcoming
-├── ⏳ Unit testing (JUnit)
-├── ⏳ Integration testing
-├── ⏳ Docker containerization
-└── ⏳ CI/CD pipelines
+[![Oracle Certified](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-AI%20Foundations%20Associate%202025-0D1117?style=for-the-badge&logo=oracle&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://education.oracle.com/)
 
-PHASE 5: Microservices [░░░░░░░░░░] 0% Advanced
-├── ⏳ Service architecture
-├── ⏳ API gateway pattern
-├── ⏳ Message queues
-└── ⏳ Distributed systems
-```
+</div>
 
 ---
 
-## 💼 Projects & Experience
+## `$ cat github_analytics.sh`
 
-### 📌 **Projects In Development**
-- 🔨 Spring Boot REST API (E-Commerce)
-- 🔨 User Authentication System
-- 🔨 Todo Application with Database
+<div align="center">
 
-### 📌 **Learning Resources**
-- 📖 Spring Boot Official Documentation
-- 📖 Baeldung Spring Tutorials
-- 📖 Code with Durgesh (Hindi Tutorials)
-- 📖 Leetcode for DSA Practice
+<img src="https://github-readme-stats.vercel.app/api?username=pranav440&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E6ED&icon_color=00D9FF&ring_color=00D9FF&count_private=true&include_all_commits=true" width="49%" alt="Pranav's GitHub Stats" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav440&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E6ED&langs_count=6" width="49%" alt="Top Languages" />
 
-## 🌟 Key Achievements
+</div>
 
-- ✨ Completed Java OOP fundamentals with projects
-- ✨ Built REST APIs using Spring Boot
-- ✨ Mastered Spring Boot annotations & configuration
-- ✨ Implemented request handling with validation
-- ✨ Learning database integration with JPA
-- ✨ Actively practicing problem-solving on Leetcode
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranav440&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E0E6ED&dates=8B949E&currStreakNum=E0E6ED&sideNums=E0E6ED)](https://github.com/pranav440)
+
+</div>
 
 ---
 
-## 📈 Growth Metrics
+## `$ cat trophies.sh`
 
-```
-Java Proficiency          [████████░░] 80%
-Backend Development       [████████░░] 80%
-REST API Design          [████████░░] 75%
-Problem Solving          [███████░░░] 70%
-System Design            [█████░░░░░] 50% (Learning)
-Full-Stack Ready         [████░░░░░░] 40% (Working on it)
+<div align="center">
+
+[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=pranav440&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/pranav440)
+
+</div>
+
+---
+
+## `$ git log --graph activity`
+
+<div align="center">
+
+[![Pranav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav440&bg_color=0D1117&color=00D9FF&line=00D9FF&point=E0E6ED&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/pranav440)
+
+</div>
+
+---
+
+## `$ cat profile_summary.sh`
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav440&theme=github_dark)](https://github.com/pranav440)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav440&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranav440&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranav440&theme=github_dark&utcOffset=5.5" width="32%" />
+
+</div>
+
+---
+
+## `$ cat snake_animation.sh`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## `$ cat current_focus.yaml`
+
+```yaml
+# pranav440 — current_focus.yaml
+# Last updated: June 2026
+
+learning:
+  - Spring Data JPA (entity relationships, query optimization)
+  - Spring Security + JWT Authentication
+  - Microservices Architecture Patterns
+  - Docker & Containerization
+
+building:
+  - Smart Expense Tracker API (Spring Boot + MySQL)
+  - Deepening Smart Parking API with advanced filtering
+
+exploring:
+  - Generative AI & AI Agents
+  - System Design fundamentals
+
+open_to:
+  role: Java Backend Developer Internship
+  type: [full-time-internship, part-time-internship]
+  start: Immediate
+  contact: pranavg764@gmail.com
+
+certifications_earned:
+  - Oracle Cloud Infrastructure 2025 AI Foundations Associate
+
+hackathons:
+  - XENIA Hackathon 2026 → Top 4 (Neuramac Domain)
 ```
 
 ---
 
-## 💬 Let's Connect
-
-I'm always open to:
-- 💡 Discussing Java and Spring Boot concepts
-- 🤝 Collaborating on backend projects
-- 📚 Sharing learning resources
-- 🎯 Contributing to open-source projects
+## `$ connect --all`
 
 <div align="center">
 
-**Feel free to reach out!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Ganorkar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://www.linkedin.com/in/pranav-ganorkar-035080245/)
+[![Gmail](https://img.shields.io/badge/Gmail-pranavg764@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](mailto:pranavg764@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pranavganorkar12-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://instagram.com/pranavganorkar12)
+[![GitHub](https://img.shields.io/badge/GitHub-pranav440-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/pranav440)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-ganorkar-035080245/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/pranavganorkar12)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavg764@gmail.com)
+<br/>
 
-</div>
+> *"I don't just write code — I build systems, understand frameworks from the inside out,*  
+> *and ship things that work."*
 
----
+<br/>
 
-<div align="center">
-
-### 🚀 "Code is poetry written for computers, but read by humans."
-
-*Last updated: 2026*
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,0D1117,100,00D9FF&height=100&section=footer&fontSize=14&fontColor=00D9FF&animation=fadeIn)](https://github.com/pranav440)
 
 </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranav440&label=Profile%20Views&color=00d9ff&style=for-the-badge)
-
-</div>
-
-code , as this is so long and vast , be a github profile profetionalist so hire people based on the github profile , so refine my profile fully and there are also some errors , so  refine it fully based on your understanding and give me the code 
-add impressive components or motion graphics things as much as possible
