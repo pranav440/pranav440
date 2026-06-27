@@ -424,8 +424,4 @@ open_to:
 <!-- CUSTOM SVG QUOTE CARD — always renders, no external API needed -->
 <img width="700" src="https://capsule-render.vercel.app/api?type=soft&color=0,0D1117,003300&height=120&section=header&text=%22I%20don't%20just%20write%20code%20—%20I%20understand%20how%20and%20why%20it%20works.%22&fontSize=18&fontColor=00FF41&fontAlignY=45&desc=—%20Pranav%20Ganorkar%2C%20Java%20Backend%20Developer&descAlignY=72&descColor=39FF14&descSize=14&animation=fadeIn" />
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,00FF41&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20🚀&fontSize=18&fontColor=0D1117&fontAlignY=65&animation=fadeIn" />
-
 </div>
