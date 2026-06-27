@@ -1,334 +1,429 @@
 <div align="center">
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=rect&color=0,15,40,0,15,40&height=3&section=header)](https://github.com/pranav440)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CINEMATIC ANIMATED BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=venom&color=0,0D1117,0D1117,100,00D9FF&height=280&section=header&text=Pranav%20Ganorkar&fontSize=62&fontColor=E0E6ED&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=68&descSize=20&descColor=00D9FF)](https://github.com/pranav440)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0,000000,003300,00FF41&height=300&section=header&text=Pranav%20Ganorkar&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=⚡%20Java%20Backend%20Developer%20·%20Spring%20Boot%20·%20REST%20APIs%20⚡&descAlignY=62&descColor=39FF14&descSize=22&stroke=00FF41&strokeWidth=2" />
+
+<!-- GLOWING NAME LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Hi+%F0%9F%91%8B+I%27m+Pranav+Ganorkar;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+REST+APIs+%7C+Spring+Data+JPA;Building+Production-Ready+APIs+%F0%9F%94%A5;Open+to+Java+Backend+Internship+2026+%F0%9F%9F%A2" alt="Typing SVG" />
+
+<br/>
+
+<!-- ANIMATED CODING GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+<br/><br/>
+
+<!-- INFO BADGES -->
+<img src="https://img.shields.io/badge/🎓_B.Tech-Information_Technology-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" />
+&nbsp;
+<img src="https://img.shields.io/badge/🏛_VIT_Pune-CGPA_8.73-39FF14?style=flat-square&labelColor=0D1117&color=39FF14" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Location-Pune,_India-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" />
+&nbsp;
+<img src="https://img.shields.io/badge/📅_Batch-2022--2026-39FF14?style=flat-square&labelColor=0D1117&color=39FF14" />
+
+<br/><br/>
+
+<!-- CTA BUTTONS -->
+<a href="https://www.linkedin.com/in/pranav-ganorkar-035080245/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/pranav440" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/pranavganorkar12" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:pranavg764@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE COUNTERS -->
+<img src="https://komarev.com/ghpvc/?username=pranav440&label=👁 Profile Views&color=00FF41&style=for-the-badge&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pranav440?label=👥 Followers&style=for-the-badge&color=39FF14&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/pranav440?label=⭐ Stars&style=for-the-badge&color=00FF41&labelColor=0D1117" />
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&height=50&lines=%24+java+--version+%3A%3A+OpenJDK+21+%7C+Spring+Boot+3.x;%24+mvn+spring-boot%3Arun+%3A%3A+Smart+Parking+API+%5BOK%5D;%24+git+push+origin+main+%3A%3A+Building+Production-Ready+APIs;%24+whoami+%3A%3A+Pranav+Ganorkar+%7C+Java+Backend+Dev;%24+target+%3A%3A+Java+Backend+Internship+%5BOPEN%5D)](https://github.com/pranav440)
-
-</div>
+<br/>
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![B.Tech IT](https://img.shields.io/badge/B.Tech%20IT-VIT%20Pune-00D9FF?style=flat-square&logo=graduation-cap&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
-![CGPA](https://img.shields.io/badge/CGPA-8.73%2F10-00D9FF?style=flat-square&logo=star&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
-![Location](https://img.shields.io/badge/Pune%2C%20India-Maharashtra-00D9FF?style=flat-square&logo=google-maps&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
-![Batch](https://img.shields.io/badge/Batch-2026-00D9FF?style=flat-square&logo=calendar&logoColor=0D1117&labelColor=0D1117&color=00D9FF)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Me
 
-</div>
+<table>
+<tr>
+<td width="55%">
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/pranav440)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://www.linkedin.com/in/pranav-ganorkar-035080245/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](mailto:pranavg764@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-pranav440-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/pranav440)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://instagram.com/pranavganorkar12)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranav440&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/pranav440?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=00D9FF)
-![Stars](https://img.shields.io/github/stars/pranav440?label=Total%20Stars&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=star&logoColor=00D9FF)
-
-</div>
-
----
-
-## `$ cat about_me.txt`
-
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│                    PRANAV GANORKAR                              │
-│              Java Backend Developer                             │
-├─────────────────────────────────────────────────────────────────┤
-│  ROLE     :: Java Backend Developer                             │
-│  FOCUS    :: Spring Boot · REST APIs · Spring Data JPA          │
-│  DEGREE   :: B.Tech Information Technology (2026)              │
-│  COLLEGE  :: Vishwakarma Institute of Technology, Pune          │
-│  CGPA     :: 8.73 / 10                                          │
-│  DOMAIN   :: Backend Engineering · API Development              │
-│  OPEN TO  :: Java Backend Internship (Immediate)               │
-└─────────────────────────────────────────────────────────────────┘
+```
+╔══════════════════════════════════════════════════╗
+║          PRANAV GANORKAR                         ║
+║          Java Backend Developer                  ║
+╠══════════════════════════════════════════════════╣
+║  ROLE     :: Java Backend Developer              ║
+║  FOCUS    :: Spring Boot · REST APIs · JPA       ║
+║  DEGREE   :: B.Tech IT (2026) — CGPA 8.73       ║
+║  COLLEGE  :: VIT Pune                            ║
+║  DOMAIN   :: Backend Eng · API Development       ║
+║  OPEN TO  :: Java Backend Internship (Now)       ║
+╚══════════════════════════════════════════════════╝
 ```
 
-> Building scalable, production-ready backend applications using Java and Spring Boot.  
-> I go deep on how frameworks work internally — not just how to use them, but *why* they work.  
-> Every project I build is a step toward writing code that's clean, tested, and deployment-ready.
+</td>
+<td width="45%" align="center">
 
----
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Java developer gif"/>
 
-## `$ ls -la tech_stack/`
+</td>
+</tr>
+</table>
+
+> 💡 Building scalable, production-ready backend applications using **Java** and **Spring Boot**.  
+> I go deep on how frameworks work internally — not just how to use them, but *why* they work that way.  
+> Every project I build is a step toward writing code that's **clean, tested, and deployable**.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; Tech Stack
 
 <div align="center">
 
-**[ Languages ]**
+### 🔵 Backend Core
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
 
-[![skillicons](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://github.com/pranav440)
+### 🟢 Databases
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-**[ Backend & Frameworks ]**
+### 🟡 Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" />
 
-[![skillicons](https://skillicons.dev/icons?i=spring,hibernate&theme=dark)](https://github.com/pranav440)
+### 🔴 Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,aws&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🏆 Specialty Areas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚡_REST_API_Design-Expert-00FF41?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-0D1117?style=flat-square&logo=springboot&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-ORM-0D1117?style=flat-square&logo=spring&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-Design-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![Maven](https://img.shields.io/badge/Maven-Build-0D1117?style=flat-square&logo=apachemaven&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+<img src="https://img.shields.io/badge/🌱_Spring_Data_JPA-Advanced-39FF14?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔗_Hibernate_ORM-Advanced-00FF41?style=for-the-badge&labelColor=0D1117"/>
 
-**[ Databases ]**
+<br/>
 
-[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&theme=dark)](https://github.com/pranav440)
-
-**[ Tools & Platforms ]**
-
-[![skillicons](https://skillicons.dev/icons?i=git,github,intellij,vscode,postman&theme=dark)](https://github.com/pranav440)
-
-**[ Currently Learning ]**
-
-[![skillicons](https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,aws&theme=dark)](https://github.com/pranav440)
+<img src="https://img.shields.io/badge/🗄️_MySQL_%26_JDBC-Intermediate-39FF14?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🤖_Gen_AI_%26_Agents-Learning-00FF41?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏗️_Microservices-Learning-39FF14?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
----
+<br/>
 
-## `$ cat specializations.md`
+## 📊 Expertise Breakdown
 
 <div align="center">
 
-![REST API](https://img.shields.io/badge/REST%20API%20Design-Expert-0D1117?style=for-the-badge&logo=postman&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advanced-0D1117?style=for-the-badge&logo=springboot&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![ORM & JPA](https://img.shields.io/badge/ORM%20%26%20JPA-Proficient-0D1117?style=for-the-badge&logo=hibernate&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![OOP](https://img.shields.io/badge/OOP%20Design-Strong-0D1117?style=for-the-badge&logo=java&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![DBMS](https://img.shields.io/badge/DBMS%20%26%20SQL-Proficient-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![AI Foundations](https://img.shields.io/badge/Generative%20AI-Learning-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
+| Skill | Level | Bar |
+|:---|:---:|:---|
+| Java & OOP | `80%` | `████████░░` |
+| Spring Boot & REST APIs | `80%` | `████████░░` |
+| Spring Data JPA / Hibernate | `60%` | `██████░░░░` |
+| MySQL & JDBC | `65%` | `██████░░░░` |
+| Git & Version Control | `75%` | `███████░░░` |
+| System Design | `50%` | `█████░░░░░` |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ cat expertise.table`
+<br/>
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| 🔵 Java & OOP | ████████░░ Advanced | Collections, Streams, Design Patterns |
-| 🔵 Spring Boot | ███████░░░ Proficient | Auto-config, Starters, Beans, Actuator |
-| 🔵 REST API Dev | ████████░░ Advanced | CRUD, Validation, Exception Handling, DTOs |
-| 🔵 Spring Data JPA | ██████░░░░ Intermediate | Entities, Repositories, Relationships |
-| 🔵 MySQL & JDBC | ██████░░░░ Intermediate | Schema design, PreparedStatements, HikariCP |
-| 🔵 Data Structures | ███████░░░ Proficient | Arrays, Linked Lists, Trees, Hashing |
-
----
-
-## `$ git log --oneline featured_projects/`
+## 🚀 Featured Projects
 
 <details open>
-<summary><b>🔵 Smart Parking Slot Booking API</b> — Spring Boot · MySQL · REST</summary>
+<summary>
+  <b>🚗 Smart Parking Slot Booking API</b> &nbsp;—&nbsp; 
+  <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>Lombok</code> <code>REST</code>
+</summary>
 
 <br/>
 
-| Attribute | Detail |
-|-----------|--------|
-| 🛠 Stack | Java · Spring Boot · Spring Data JPA · MySQL · Lombok · Maven |
-| 📦 Scale | Full CRUD REST API · All edge cases Postman-tested |
-| 💡 What it does | Manages parking slots, bookings, users and availability in real time |
-| 🔗 Repo | [pranav440/Smart-Parking-Slot-Booking-API](https://github.com/pranav440/Smart-Parking-Slot-Booking-API) |
+> 🏆 Production-grade REST API for managing parking slot reservations end-to-end.
 
-- Designed RESTful endpoints for slot reservation, cancellation, and availability check
-- Implemented DTOs, service layer, and repository layer with clean separation of concerns
-- Built complete entity model with Spring Data JPA — all edge cases validated via Postman
+| | |
+|:--|:--|
+| **Stack** | Java 17 · Spring Boot · Spring Data JPA · Hibernate · MySQL · Lombok · Maven |
+| **Architecture** | Controller → Service → Repository → Database |
+| **Features** | Slot booking, availability check, user management, full CRUD |
+| **Testing** | All edge cases verified via Postman ✅ |
+| **Role** | Sole Developer — entities, DTOs, services, controllers, exception handlers |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/🔗_GitHub-Smart--Parking--API-00FF41?style=for-the-badge&labelColor=0D1117)](https://github.com/pranav440/Smart-Parking-Slot-Booking-API)
 
 </details>
+
+<br/>
 
 <details>
-<summary><b>🔵 UPI Wallet Engine</b> — Java · OOP · Core Java</summary>
+<summary>
+  <b>💰 Smart Expense Tracker API</b> &nbsp;—&nbsp;
+  <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>REST</code> &nbsp;<em>🔨 In Progress</em>
+</summary>
 
 <br/>
 
-| Attribute | Detail |
-|-----------|--------|
-| 🛠 Stack | Java · OOP · Collections · Exception Handling |
-| 📦 Scale | Console-based · Full simulation with PIN auth & transaction history |
-| 💡 What it does | Simulates a UPI Wallet with secure money transfer, PIN verification, balance management |
-| 🔗 Repo | [pranav440/UPI-Wallet-Engine-Java](https://github.com/pranav440/UPI-Wallet-Engine-Java) |
+> Backend API to track, categorize and analyze personal expenses with full CRUD.
 
-- Built user management system with secure PIN verification flow
-- Implemented wallet-to-wallet money transfer with balance validation and rollback logic
-- Maintains full transaction history per user using Java Collections framework
+| | |
+|:--|:--|
+| **Stack** | Java · Spring Boot · Spring Data JPA · MySQL · Maven |
+| **Features** | Expense CRUD, category-wise filtering, budget tracking |
+| **Status** | 🔨 Active development |
 
 </details>
+
+<br/>
 
 <details>
-<summary><b>🔵 Java JDBC CRUD App</b> — Java · JDBC · MySQL</summary>
+<summary>
+  <b>🔐 UPI Wallet Engine</b> &nbsp;—&nbsp;
+  <code>Java</code> <code>OOP</code> <code>JDBC</code> <code>MySQL</code>
+</summary>
 
 <br/>
 
-| Attribute | Detail |
-|-----------|--------|
-| 🛠 Stack | Java · JDBC · MySQL · PreparedStatement |
-| 📦 Scale | Modular mini-project structure · Secure parameterized queries |
-| 💡 What it does | Full CRUD application demonstrating raw JDBC-MySQL integration |
-| 🔗 Repo | [pranav440/java-jdbc-crud-app](https://github.com/pranav440/java-jdbc-crud-app) |
+> Java-based UPI wallet simulation with PIN verification and real-time transaction history.
 
-- Implemented secure CRUD operations using PreparedStatements (SQL injection safe)
-- Modular project structure separating DB config, DAO, and business logic
-- Demonstrates core JDBC patterns before ORM abstraction
+| | |
+|:--|:--|
+| **Stack** | Core Java · OOP · JDBC · MySQL |
+| **Features** | User management, secure PIN auth, P2P transfer, transaction log |
+
+[![View Repo](https://img.shields.io/badge/🔗_GitHub-UPI--Wallet--Engine-39FF14?style=for-the-badge&labelColor=0D1117)](https://github.com/pranav440/UPI-Wallet-Engine-Java)
 
 </details>
 
----
+<br/>
 
-## `$ cat achievements.log`
+<details>
+<summary>
+  <b>🗄️ Java JDBC CRUD App</b> &nbsp;—&nbsp;
+  <code>Java</code> <code>JDBC</code> <code>MySQL</code>
+</summary>
 
-<div align="center">
+<br/>
 
-| 🏆 Achievement | 📋 Details | 📅 Year |
-|---|---|---|
-| 🥇 Top 4 — XENIA Hackathon | Neuramac Domain · Competitive hackathon placing | 2026 |
-| 🎓 Oracle Cloud Certified | OCI 2025 AI Foundations Associate | 2025 |
-| ⚙️ Smart Parking API | Production-ready Spring Boot REST API live on GitHub | 2025 |
-| 💻 GitHub Pull Shark | Earned via active PR contribution workflow | 2025 |
-| ⚡ GitHub Quickdraw | Early and consistent issue/PR engagement | 2025 |
+> Modular CRUD app with secure DB connectivity and PreparedStatement patterns.
 
-</div>
+[![View Repo](https://img.shields.io/badge/🔗_GitHub-Java--JDBC--CRUD-00FF41?style=for-the-badge&labelColor=0D1117)](https://github.com/pranav440/java-jdbc-crud-app)
 
----
+</details>
 
-## `$ cat education.txt`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<br/>
 
-[![VIT Pune](https://img.shields.io/badge/B.Tech%20Information%20Technology-Vishwakarma%20Institute%20of%20Technology%2C%20Pune-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://www.vit.edu/)
-
-![Batch](https://img.shields.io/badge/Batch-2022--2026-0D1117?style=flat-square&logo=calendar&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-![CGPA](https://img.shields.io/badge/CGPA-8.73%20%2F%2010-0D1117?style=flat-square&logo=star&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)
-
-[![Oracle Certified](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-AI%20Foundations%20Associate%202025-0D1117?style=for-the-badge&logo=oracle&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://education.oracle.com/)
-
-</div>
-
----
-
-## `$ cat github_analytics.sh`
+## 🏅 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranav440&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E6ED&icon_color=00D9FF&ring_color=00D9FF&count_private=true&include_all_commits=true" width="49%" alt="Pranav's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav440&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E6ED&langs_count=6" width="49%" alt="Top Languages" />
+| 🏆 Achievement | 📋 Details | 📅 |
+|:---|:---|:---:|
+| **🥊 Top 4 — XENIA Hackathon 2026** | Neuramac Domain · VIT Pune | 2026 |
+| **☁️ Oracle Cloud Infrastructure Certified** | OCI 2025 AI Foundations Associate | 2025 |
+| **✅ Smart Parking API — All Tests Passed** | Full Postman test suite · 0 failures | 2025 |
+| **📦 10 Public Repositories** | Active open-source footprint | 2026 |
+| **🦈 GitHub Achievements** | Pull Shark · YOLO · Quickdraw | 2025–26 |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎓 Education & Certifications
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranav440&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E0E6ED&dates=8B949E&currStreakNum=E0E6ED&sideNums=E0E6ED)](https://github.com/pranav440)
+<img src="https://img.shields.io/badge/B.Tech_Information_Technology-Vishwakarma_Institute_of_Technology,_Pune-00FF41?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CGPA-8.73_/_10.0-39FF14?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Batch-2022–2026-00FF41?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_Associate_2025-00FF41?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ cat trophies.sh`
+<br/>
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=pranav440&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/pranav440)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranav440&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav440&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pranav440&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=39FF14&dates=39FF14&sideNums=00FF41&currStreakNum=00FF41" />
 
 </div>
 
----
+<br/>
 
-## `$ git log --graph activity`
+## 🏆 Trophies
 
 <div align="center">
 
-[![Pranav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav440&bg_color=0D1117&color=00D9FF&line=00D9FF&point=E0E6ED&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/pranav440)
+<img src="https://github-profile-trophy.vercel.app/?username=pranav440&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
----
+<br/>
 
-## `$ cat profile_summary.sh`
+## 📊 Activity Graph
 
 <div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav440&theme=github_dark)](https://github.com/pranav440)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav440&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranav440&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranav440&theme=github_dark&utcOffset=5.5" width="32%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav440&bg_color=0D1117&color=00FF41&line=39FF14&point=00FF41&area=true&area_color=003300&hide_border=true&radius=8" />
 
 </div>
 
----
+<br/>
 
-## `$ cat snake_animation.sh`
+## 📋 Profile Summary Cards
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav440&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav440&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranav440&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranav440&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranav440&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ cat current_focus.yaml`
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎯 Current Focus
 
 ```yaml
-# pranav440 — current_focus.yaml
-# Last updated: June 2026
-
-learning:
-  - Spring Data JPA (entity relationships, query optimization)
-  - Spring Security + JWT Authentication
-  - Microservices Architecture Patterns
-  - Docker & Containerization
+# pranav440 — Active Focus · June 2026
+name: Pranav Ganorkar
+role: Java Backend Developer
+status: 🟢 Actively seeking internship
 
 building:
-  - Smart Expense Tracker API (Spring Boot + MySQL)
-  - Deepening Smart Parking API with advanced filtering
+  - "🚗 Smart Parking Slot Booking API  →  Spring Boot · JPA · MySQL"
+  - "💰 Smart Expense Tracker API       →  Spring Boot · JPA · MySQL"
 
-exploring:
-  - Generative AI & AI Agents
-  - System Design fundamentals
+learning:
+  - "🔐 Spring Security & JWT Authentication"
+  - "🐳 Docker & Containerization"
+  - "🏗️  Microservices Architecture"
+  - "📨 Kafka & Message Queues"
+  - "🤖 Generative AI & AI Agents"
 
 open_to:
-  role: Java Backend Developer Internship
-  type: [full-time-internship, part-time-internship]
-  start: Immediate
-  contact: pranavg764@gmail.com
-
-certifications_earned:
-  - Oracle Cloud Infrastructure 2025 AI Foundations Associate
-
-hackathons:
-  - XENIA Hackathon 2026 → Top 4 (Neuramac Domain)
+  - "Java Backend Internship (Immediate)"
+  - "Entry-Level Backend Developer Roles"
+  - "Open Source Contributions (Java / Spring Boot)"
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ connect --all`
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Ganorkar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://www.linkedin.com/in/pranav-ganorkar-035080245/)
-[![Gmail](https://img.shields.io/badge/Gmail-pranavg764@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](mailto:pranavg764@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-pranavganorkar12-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://instagram.com/pranavganorkar12)
-[![GitHub](https://img.shields.io/badge/GitHub-pranav440-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/pranav440)
+<a href="https://www.linkedin.com/in/pranav-ganorkar-035080245/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/pranav440">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/pranavganorkar12">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:pranavg764@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<br/><br/>
+
+> ### *"I don't just write code — I understand how and why it works."*
+> — Pranav Ganorkar
 
 <br/>
 
-> *"I don't just write code — I build systems, understand frameworks from the inside out,*  
-> *and ship things that work."*
-
-<br/>
-
-[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,0D1117,100,00D9FF&height=100&section=footer&fontSize=14&fontColor=00D9FF&animation=fadeIn)](https://github.com/pranav440)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,00FF41&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20🚀&fontSize=18&fontColor=0D1117&fontAlignY=65&animation=fadeIn" />
 
 </div>
