@@ -350,13 +350,19 @@
 
 ## 🐍 Contribution Snake
 
+> ⚡ **To activate the snake:** Go to your `pranav440/pranav440` repo → **Actions** tab → find **"Generate Snake"** workflow → click **"Run workflow"**. After ~1 min it generates the SVG and the snake appears automatically here.
+
 <div align="center">
 
+<!-- Snake loads from GitHub Actions output branch. Run the workflow once to activate! -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg" />
+  <img alt="Snake animation — run GitHub Action to activate" src="https://raw.githubusercontent.com/pranav440/pranav440/output/github-snake-dark.svg" />
 </picture>
+
+<!-- ALWAYS-VISIBLE fallback: animated contribution-style banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0D1117,003300,00FF41,003300,0D1117&height=3&section=header&reversal=false" />
 
 </div>
 
@@ -415,14 +421,10 @@ open_to:
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<!-- CUSTOM SVG QUOTE CARD — always renders, no external API needed -->
+<img width="700" src="https://capsule-render.vercel.app/api?type=soft&color=0,0D1117,003300&height=120&section=header&text=%22I%20don't%20just%20write%20code%20—%20I%20understand%20how%20and%20why%20it%20works.%22&fontSize=18&fontColor=00FF41&fontAlignY=45&desc=—%20Pranav%20Ganorkar%2C%20Java%20Backend%20Developer&descAlignY=72&descColor=39FF14&descSize=14&animation=fadeIn" />
 
 <br/><br/>
-
-> ### *"I don't just write code — I understand how and why it works."*
-> — Pranav Ganorkar
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,00FF41&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20🚀&fontSize=18&fontColor=0D1117&fontAlignY=65&animation=fadeIn" />
 
