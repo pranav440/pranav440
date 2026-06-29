@@ -102,17 +102,20 @@
 
 <div align="center">
 
-### 🔵 Backend Core
+### ✅ Backend Core — Completed
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
 
-### 🟢 Databases
+### ✅ Databases & Connectivity — Completed
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-### 🟡 Dev Tools
+### ✅ Dev Tools — Completed
 <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" />
 
-### 🔴 Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,aws&theme=dark" />
+### 🔄 Currently Learning
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+
+### 🎯 Future Roadmap
+<img src="https://skillicons.dev/icons?i=redis,kafka,kubernetes,aws&theme=dark" />
 
 </div>
 
@@ -124,19 +127,60 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡_REST_API_Design-Expert-00FF41?style=for-the-badge&labelColor=0D1117"/>
+<!-- ✅ COMPLETED -->
+<img src="https://img.shields.io/badge/✅_REST_API_Design-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🌱_Spring_Data_JPA-Advanced-39FF14?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/✅_Spring_Data_JPA-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🔗_Hibernate_ORM-Advanced-00FF41?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/✅_Hibernate_ORM-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🗄️_MySQL_%26_JDBC-Intermediate-39FF14?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/✅_DTO_%26_Mapper_Pattern-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🤖_Gen_AI_%26_Agents-Learning-00FF41?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/✅_Global_Exception_Handling-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🏗️_Microservices-Learning-39FF14?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/✅_Bean_Validation-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/✅_Entity_Relationships-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/✅_Pagination_%26_Sorting-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/✅_SLF4J_Logging-Completed-00FF41?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- 🔄 CURRENTLY LEARNING -->
+<img src="https://img.shields.io/badge/🔄_Spring_Security-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔄_JWT_Authentication-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔄_BCrypt_Encryption-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🔄_Docker-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔄_Swagger_OpenAPI-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔄_JUnit_5_%26_Mockito-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔄_Deployment-In_Progress-FFA500?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- 🎯 FUTURE -->
+<img src="https://img.shields.io/badge/🎯_Redis-Future_Goal-555555?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_Microservices-Future_Goal-555555?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_Apache_Kafka-Future_Goal-555555?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_AWS-Future_Goal-555555?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_Kubernetes-Future_Goal-555555?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -146,18 +190,76 @@
 
 <div align="center">
 
-| Skill | Level | Bar |
-|:---|:---:|:---|
-| Java & OOP | `80%` | `████████░░` |
-| Spring Boot & REST APIs | `80%` | `████████░░` |
-| Spring Data JPA / Hibernate | `60%` | `██████░░░░` |
-| MySQL & JDBC | `65%` | `██████░░░░` |
-| Git & Version Control | `75%` | `███████░░░` |
-| System Design | `50%` | `█████░░░░░` |
+| Skill | Status | Level | Bar |
+|:---|:---:|:---:|:---|
+| Java & OOP | ✅ | `85%` | `████████░░` |
+| Spring Boot & REST APIs | ✅ | `80%` | `████████░░` |
+| Spring Data JPA / Hibernate | ✅ | `75%` | `███████░░░` |
+| DTO & Mapper Pattern | ✅ | `80%` | `████████░░` |
+| Bean Validation | ✅ | `75%` | `███████░░░` |
+| Global Exception Handling | ✅ | `80%` | `████████░░` |
+| Entity Relationships (JPA) | ✅ | `70%` | `███████░░░` |
+| Pagination & Sorting | ✅ | `75%` | `███████░░░` |
+| MySQL & JDBC | ✅ | `70%` | `███████░░░` |
+| Git & Version Control | ✅ | `80%` | `████████░░` |
+| Spring Security & JWT | 🔄 | `--` | `░░░░░░░░░░` |
+| Docker & Deployment | 🔄 | `--` | `░░░░░░░░░░` |
+| Swagger / JUnit / Mockito | 🔄 | `--` | `░░░░░░░░░░` |
+| Microservices / Kafka / AWS | 🎯 | `--` | `░░░░░░░░░░` |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🗺️ Learning Roadmap
+
+<div align="center">
+
+| Stage | Technology | Status |
+|:---:|:---|:---:|
+| 1 | **Core Java** — OOP, Collections, Exception Handling, JDBC | ✅ Done |
+| 2 | **Spring Boot** — Auto-config, REST APIs, Controllers, Layers | ✅ Done |
+| 3 | **Hibernate & JPA** — Entities, Relationships, JPQL | ✅ Done |
+| 4 | **REST API Design** — CRUD, Status Codes, Postman Testing | ✅ Done |
+| 5 | **Bean Validation** — Jakarta Validation, Custom Constraints | ✅ Done |
+| 6 | **DTO & Mapper Pattern** — Request/Response separation | ✅ Done |
+| 7 | **Entity Relationships** — OneToMany, ManyToOne, Cascades | ✅ Done |
+| 8 | **SLF4J Logging** — Log levels, structured logging | ✅ Done |
+| 9 | **Pagination & Sorting** — PageRequest, Pageable, Sort | ✅ Done |
+| ↓ | | |
+| 10 | **Spring Security** — Auth, Roles, Filter Chain | 🔄 In Progress |
+| 11 | **JWT Authentication** — Tokens, Claims, Stateless Auth | 🔄 In Progress |
+| 12 | **BCrypt Password Encryption** — Secure credential storage | 🔄 In Progress |
+| 13 | **Docker** — Containers, Dockerfile, Compose | 🔄 In Progress |
+| 14 | **Deployment** — Render / Railway cloud deploy | 🔄 In Progress |
+| 15 | **Swagger / OpenAPI** — API documentation | 🔄 In Progress |
+| 16 | **JUnit 5 & Mockito** — Unit & Integration testing | 🔄 In Progress |
+| ↓ | | |
+| 17 | **Redis** — Caching, Session management | 🎯 Future |
+| 18 | **Spring Cloud & Microservices** — Service discovery, Gateway | 🎯 Future |
+| 19 | **Apache Kafka** — Event streaming, Message queues | 🎯 Future |
+| 20 | **CI/CD (GitHub Actions)** — Automated pipelines | 🎯 Future |
+| 21 | **AWS** — EC2, S3, RDS, deployment | 🎯 Future |
+| 22 | **Kubernetes** — Container orchestration at scale | 🎯 Future |
+| 23 | **System Design** — HLD, LLD, Scalability patterns | 🎯 Future |
+
+</div>
+
+<div align="center">
+
+```
+Core Java ✅ → Spring Boot ✅ → Hibernate & JPA ✅ → REST APIs ✅
+      → Validation ✅ → DTO Pattern ✅ → Entity Relationships ✅
+      → Logging ✅ → Pagination & Sorting ✅
+      → Spring Security 🔄 → JWT 🔄 → Docker 🔄 → Deployment 🔄
+      → Microservices 🎯 → Kafka 🎯 → AWS 🎯 → System Design 🎯
+```
+
+**Legend:** &nbsp; ✅ Completed &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 🎯 Future Goal
+
+</div>
 
 <br/>
 
@@ -376,18 +478,32 @@
 # pranav440 — Active Focus · June 2026
 name: Pranav Ganorkar
 role: Java Backend Developer
-status: 🟢 Actively seeking internship
+status: 🟢 Actively seeking Java Backend Internship
+
+completed:
+  - "✅ Core Java — OOP, Collections, Exception Handling, JDBC"
+  - "✅ Spring Boot — REST APIs, Controllers, Services, Repositories"
+  - "✅ Spring Data JPA — Hibernate, Entity Relationships, JPQL"
+  - "✅ DTO & Mapper Pattern — Clean API design"
+  - "✅ Bean Validation & Global Exception Handling"
+  - "✅ Pagination, Sorting, SLF4J Logging"
+
+currently_learning:
+  - "🔄 Spring Security & JWT Authentication"
+  - "🔄 Password Encryption with BCrypt"
+  - "🔄 Docker & Containerization"
+  - "🔄 Deployment on Render / Railway"
+  - "🔄 Swagger / OpenAPI Documentation"
+  - "🔄 JUnit 5 & Mockito — Testing"
 
 building:
   - "🚗 Smart Parking Slot Booking API  →  Spring Boot · JPA · MySQL"
   - "💰 Smart Expense Tracker API       →  Spring Boot · JPA · MySQL"
 
-learning:
-  - "🔐 Spring Security & JWT Authentication"
-  - "🐳 Docker & Containerization"
-  - "🏗️  Microservices Architecture"
-  - "📨 Kafka & Message Queues"
-  - "🤖 Generative AI & AI Agents"
+future_goals:
+  - "🎯 Redis · Spring Cloud · Microservices"
+  - "🎯 Apache Kafka · CI/CD · AWS · Kubernetes"
+  - "🎯 System Design — HLD / LLD"
 
 open_to:
   - "Java Backend Internship (Immediate)"
@@ -423,5 +539,9 @@ open_to:
 
 <!-- CUSTOM SVG QUOTE CARD — always renders, no external API needed -->
 <img width="700" src="https://capsule-render.vercel.app/api?type=soft&color=0,0D1117,003300&height=120&section=header&text=%22I%20don't%20just%20write%20code%20—%20I%20understand%20how%20and%20why%20it%20works.%22&fontSize=18&fontColor=00FF41&fontAlignY=45&desc=—%20Pranav%20Ganorkar%2C%20Java%20Backend%20Developer&descAlignY=72&descColor=39FF14&descSize=14&animation=fadeIn" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,00FF41&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20🚀&fontSize=18&fontColor=0D1117&fontAlignY=65&animation=fadeIn" />
 
 </div>
