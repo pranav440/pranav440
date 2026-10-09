@@ -296,24 +296,6 @@ Core Java ✅ → Spring Boot ✅ → Hibernate & JPA ✅ → REST APIs ✅
 
 </div>
 
-<br/>
-
-### ⚡ Active Contributions & Submissions Under Review
-
-<div align="center">
-
-| Repository | Stars | Domain / Component | Pull Request & Scope | Status |
-|:---|:---:|:---|:---|:---:|
-| [**BasedHardware/omi**](https://github.com/BasedHardware/omi) | **13,700+ ★** | AI Wearable & Agent Companion | [**PR #21061**](https://github.com/BasedHardware/omi/pull/21061): *fix(wikipedia-app): prevent AttributeError on null nested payloads and enable client pooling (#20994)* | `REVIEW` ⏳ |
-| [**cocoindex-io/cocoindex-code**](https://github.com/cocoindex-io/cocoindex-code) | **2,800+ ★** | Multi-language Code Indexing | [**PR #290**](https://github.com/cocoindex-io/cocoindex-code/pull/290): *feat: add support for Salesforce Apex language (.cls, .trigger, .apex)* | `CLEAN / PASSING` ✅ |
-| [**cocoindex-io/cocoindex**](https://github.com/cocoindex-io/cocoindex) | **11,650+ ★** | Distributed AI Transformation Engine | [**PR #2430**](https://github.com/cocoindex-io/cocoindex/pull/2430): *fix(function): allow async def with @coco.fn(batching=True)* | `APPROVED` 🌟 |
-| [**cocoindex-io/cocoindex**](https://github.com/cocoindex-io/cocoindex) | **11,650+ ★** | Cloud Storage Connectors | [**PR #2466**](https://github.com/cocoindex-io/cocoindex/pull/2466): *fix(oci_object_storage): handle zero-length and empty object range reads* | `REVIEW` ⏳ |
-| [**BasedHardware/omi**](https://github.com/BasedHardware/omi) | **13,700+ ★** | Backend Resiliency & Firestore | [**PR #20454**](https://github.com/BasedHardware/omi/pull/20454): *fix(backend): robust exception chaining traversal and resilience guards in firestore transaction retry* | `REVIEW` ⏳ |
-| [**BasedHardware/omi**](https://github.com/BasedHardware/omi) | **13,700+ ★** | Internationalization | [**PR #20654**](https://github.com/BasedHardware/omi/pull/20654): *feat(languages): expose Gujarati in backend and mobile primary-language pickers* | `REVIEW` ⏳ |
-| [**Mantitup-Org/vista**](https://github.com/Mantitup-Org/vista) | **2,400+ ★** | Generative UI Runtime | [**PR #112**](https://github.com/Mantitup-Org/vista/pull/112): *fix(ai): capture model.generateText errors in telemetry and invoke observability.onError* | `REVIEW` ⏳ |
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
