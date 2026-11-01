@@ -27,9 +27,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/⭐_Tier--1_Open_Source-86k+_Stars_Impacted-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" />
+<img src="https://img.shields.io/badge/⭐_Tier--1_Open_Source-66k+_Stars_Impacted-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" />
 &nbsp;
-<img src="https://img.shields.io/badge/🚀_Merged_in-twentyhq_·_cocoindex_·_susu-39FF14?style=flat-square&labelColor=0D1117&color=39FF14" />
+<img src="https://img.shields.io/badge/🚀_Merged_in-twentyhq_·_omi_·_cocoindex-39FF14?style=flat-square&labelColor=0D1117&color=39FF14" />
 
 <br/><br/>
 
@@ -272,7 +272,7 @@ Core Java ✅ → Spring Boot ✅ → Hibernate & JPA ✅ → REST APIs ✅
 ## 🌐 Open Source Engineering & Tier-1 Merged Contributions
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Stars_Impacted-86,000+_%E2%98%85-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Total_Stars_Impacted-66,000+_%E2%98%85-00FF41?style=for-the-badge&labelColor=0D1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Production_PRs_Merged-Tier--1_Repos-39FF14?style=for-the-badge&labelColor=0D1117" />
   &nbsp;
@@ -281,7 +281,7 @@ Core Java ✅ → Spring Boot ✅ → Hibernate & JPA ✅ → REST APIs ✅
 
 <br/>
 
-> 🚀 Active core contributor to enterprise repositories, distributed systems, AI companions, and blockchain smart contracts.
+> 🚀 Active core contributor to enterprise repositories, distributed backend systems, AI wearables, and high-performance data engines.
 
 ### 🏆 Merged Contributions to High-Impact Repositories
 
@@ -290,9 +290,9 @@ Core Java ✅ → Spring Boot ✅ → Hibernate & JPA ✅ → REST APIs ✅
 | Repository | Stars | Ecosystem / Domain | Contribution & Solution | Status |
 |:---|:---:|:---|:---|:---:|
 | [**twentyhq/twenty**](https://github.com/twentyhq/twenty) | **58,100+ ★** | Leading Open-Source CRM Platform | [**PR #26929**](https://github.com/twentyhq/twenty/pull/26929): *fix(front): preserve null currency amountMicros in CSV export*<br><sub>Merged by Co-Founder Charles Bochet. Hardened financial data exports against corruption.</sub> | `MERGED` ✅ |
+| [**BasedHardware/omi**](https://github.com/BasedHardware/omi) | **5,500+ ★** | Open-Source AI Wearable & Audio Intelligence | [**PR #22861**](https://github.com/BasedHardware/omi/pull/22861): *fix(stt): preserve speaker scope across same-provider reconnects and dedupe successor replay*<br><sub>Merged by core maintainer. Preserved speaker context across STT provider reconnections and eliminated replay duplication.</sub> | `MERGED` ✅ |
+| [**cocoindex-io/cocoindex**](https://github.com/cocoindex-io/cocoindex) | **Data Engine** | Vector & Data Transform Runtime for AI Agents | [**PR #2466**](https://github.com/cocoindex-io/cocoindex/pull/2466): *fix(oci_object_storage): handle zero-length and empty object range reads*<br><sub>Merged on Nov 1, 2026. Hardened object storage range reading against empty and zero-length boundaries.</sub> | `MERGED` ✅ |
 | [**cocoindex-io/cocoindex-code**](https://github.com/cocoindex-io/cocoindex-code) | **2,800+ ★** | AST Code Search Engine for AI Coding Agents | [**PR #291**](https://github.com/cocoindex-io/cocoindex-code/pull/291): *fix(daemon): guard socket unlinking on shutdown by checking bound node identity*<br><sub>Fixed IPC socket race conditions during daemon process shutdown.</sub> | `MERGED` ✅ |
-| [**SUSU-LABS/susu-contracts**](https://github.com/SUSU-LABS/susu-contracts) | **Stellar / Soroban** | Decentralized Rotating Credit Smart Contracts | [**PR #66**](https://github.com/SUSU-LABS/susu-contracts/pull/66): *test(factory): add regression tests for Factory InvalidTreasury checks (#46)*<br><sub>Merged by core maintainer @salienne. Built exhaustive Rust test suite with 100% pass and zero clippy warnings.</sub> | `MERGED` ✅ |
-| [**pranav440/MedSafe-AI**](https://github.com/pranav440/MedSafe-AI) | **Healthcare AI** | Full-Stack Clinical Vitals & Prescription Analysis | [**PR #2**](https://github.com/pranav440/MedSafe-AI/pull/2): *Production documentation architecture and UI refinements* | `MERGED` ✅ |
 
 </div>
 
@@ -393,7 +393,7 @@ Core Java ✅ → Spring Boot ✅ → Hibernate & JPA ✅ → REST APIs ✅
 
 | 🏆 Achievement | 📋 Details | 📅 |
 |:---|:---|:---:|
-| **⭐ 86,000+ Stars Impacted** | Merged PRs in twentyhq/twenty (58k★), cocoindex-code (2.8k★), SUSU-LABS | 2026 |
+| **⭐ 66,000+ Stars Impacted** | Merged PRs in twentyhq/twenty (58k★), BasedHardware/omi (5.5k★), cocoindex-io | 2026 |
 | **🥊 Top 4 — XENIA Hackathon 2026** | Neuramac Domain · VIT Pune | 2026 |
 | **☁️ Oracle Cloud Infrastructure Certified** | OCI 2025 AI Foundations Associate | 2025 |
 | **✅ Smart Parking API — All Tests Passed** | Full Postman test suite · 0 failures | 2025 |
